@@ -1,6 +1,6 @@
 ## Running the app
 
-just go to the root folder and execute
+Move to the app folder and run
 
 ```
 gradle bootRun
@@ -10,7 +10,7 @@ gradle bootRun
 
 Because the exercise was taking too much time there are some still TODOs:
 
-- some test are not completed, because the exercise was taking too much time
+- some tests are not completed
 - validations are not performed when the merchant post an offer
 
 
